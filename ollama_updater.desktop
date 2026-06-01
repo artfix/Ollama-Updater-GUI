@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=🦙 Update Ollama
+Comment=One-click Ollama update
+Exec=/home/john/Ollama-Updater-GUI/ollama_updater.py
+Icon=/home/john/Ollama-Updater-GUI/ollama-icon.png
+Terminal=false
+Type=Application
+Categories=System;
+StartupNotify=true
