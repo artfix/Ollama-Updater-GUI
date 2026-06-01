@@ -51,7 +51,9 @@ chmod +x ollama_updater.py
 
 3. Create desktop shortcut (optional but recommended)
 
-From this repo download [ollama_updater.desktop](https://github.com/artfix/Ollama-Updater-GUI/blob/main/ollama_updater.desktop) and place it in `/home/USER/.local/share/applications`
+ - From this repo download [ollama_updater.desktop](https://github.com/artfix/Ollama-Updater-GUI/blob/main/ollama_updater.desktop) and place it in `/home/USER/.local/share/applications`
+
+ - Edit `ollama_updater.desktop` line 5 and 6 to match you PATH and save it.
 
 4. Refresh desktop apps menu, cmd to run in terminal
 
